@@ -3662,8 +3662,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/mine_hd.txt",
-      "hash": "083c27c2c17f9652adfba8b108a09e1b75f3c05243197f0aef79a060ba522730",
-      "title": "My OSD for full Betaflight element support in HD",
+      "hash": "5d86fcb14679fc2870cddb8b1eab19d46c776c2968db3b0cfe38b4c8a80a23c9",
+      "title": "My HD OSD for full element support",
       "firmware_version": [
         "4.4"
       ],
@@ -3672,7 +3672,8 @@
       "keywords": [
         "osd",
         "dji",
-        "wtf"
+        "wtf",
+        "hd"
       ],
       "author": "Martin Wåger",
       "priority": 0
