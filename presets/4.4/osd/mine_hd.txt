@@ -1,8 +1,8 @@
-#$ TITLE: My OSD for full Betaflight element support in HD
+#$ TITLE: My HD OSD for full element support
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: osd, dji, wtf
+#$ KEYWORDS: osd, dji, wtf, hd
 #$ AUTHOR: Martin Wåger
 #$ DESCRIPTION: My OSD preset for builds with full element and HD support. Option to add GPS and or altitude.
 
